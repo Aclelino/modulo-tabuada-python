@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="Tabuleiro",
-    version="0.0.1",
+    version="0.0.2",
     author="Aclelino",
     author_email="aclelino@gmail.com",
     description="Tabuada simplificado",
@@ -17,5 +17,5 @@ setup(
     url="https://github.com/Aclelino/modulo-tabuada-python.git",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.5',
+    python_requires='>=3.7',
 )
