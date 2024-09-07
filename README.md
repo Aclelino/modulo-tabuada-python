@@ -16,12 +16,13 @@ pip install tabuleiro
 ## Usage
 
 ```python
-from tabuleiro.package_tabuleiro import tabuada
-tabuada(numero)
+from package_tabuleiro import tabuada
+
+tabuada.tabuada(numero)
 ```
 
 ## Author
-Aclelino Damião
+Aclelino Damião Florentino
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
